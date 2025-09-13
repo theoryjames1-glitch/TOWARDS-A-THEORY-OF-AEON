@@ -1,5 +1,9 @@
 # 🌌 Theory of AEON
 
+
+
+[![Video Title](https://img.youtube.com/vi/kpdHuo7YwBU/0.jpg)](https://www.youtube.com/watch?v=kpdHuo7YwBU)
+
 ## 1. Core Idea
 
 AEON = a **neural machine that evolves online** under adaptive control.
